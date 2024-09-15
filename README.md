@@ -1,1 +1,2 @@
-# Gesture-Controlled-Presentation
+# miniproject3-sem
+hand gesture controlled presentation
